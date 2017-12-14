@@ -1,4 +1,5 @@
 matplotlib
+basemap
 pandas
 seaborn
 netCDF4
