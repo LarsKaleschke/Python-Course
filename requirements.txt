@@ -1,5 +1,4 @@
-matplotlib>=2.1.1
-basemap>=1.0.7
+matplotlib
 pandas
 seaborn
 netCDF4
